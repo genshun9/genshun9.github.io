@@ -7,7 +7,11 @@ css: ["index.css"]
   <div class="col s12">
     <div class="card hoverable">
       <div class="card-content">
-        <span id="post-title" class="card-title">{{post.title}}</span>
+        <div id="post-title" class="card-title">
+        <a href="{{post.url | prepend: site.baseurl}}">
+          {{post.title}}
+        </a>
+      </div>
         <p id="post-date">
           <i class="material-icons">date_range</i>
           {{post.date | date: "%Y/%m/%d"}}
