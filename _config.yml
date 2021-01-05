@@ -30,9 +30,22 @@ twitter_username: gen_shun
 github_username:  genshun9
 
 # Build settings
-theme: minima
-plugins:
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+markdown: kramdown
+gems:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  style: compressed
+future: true%
 
 # Exclude from processing.
 # The following items will not be processed, by default.
