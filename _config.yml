@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   気になること、感想などをつらつら書いていきます。twitterでまとめきれないものは、定期的にこちらで排出します。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://genshun9.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-FJLL63BRJJ
 
 # gen_shun specific configurations
 user: ゲンシュン/genshun
