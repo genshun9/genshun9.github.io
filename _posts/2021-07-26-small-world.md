@@ -49,12 +49,22 @@ tag: yugioh
 
 <br/>
 
-#### 手札2枚→デッキ1枚、手札1枚→デッキ2枚について
+#### 手札N枚→デッキ1枚、手札1枚→デッキN枚について
 
 1つの初動から複数のゴール(A→B、A→Cの共通リスト)、または複数のゴールから1つのゴール(A→C、B→Cの共通リスト)を出す機能です。丸いボタンから選んでください。<br/><br/>
 以下例として《怒炎壊獣ドゴラン》を除外し《灰流うらら》または《レスキューキャット》をサーチ可能なリスト検索を、スマホ画面からやってみます。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スモールワールド・サーチ君の使い方その2 <a href="https://t.co/O9IyZALWKB">pic.twitter.com/O9IyZALWKB</a></p>&mdash; ゲンシュン (@gen_shun) <a href="https://twitter.com/gen_shun/status/1419605956451733505?ref_src=twsrc%5Etfw">July 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/>
+
+##### (※2021/7/29追記)上限を増やす追加対応をしました
+除外元もっと増やして！！！という意見、結構多かったので最大5枚まで追加出来るようにしました。「+」ボタンもしくは「-」ボタンで選択肢の増減が出来ます。<br/>
+以下例として《灰流うらら》を除外し《プランキッズ・ドロップ》《プランキッズ・パルス》《プランキッズ・ランプ》《プランキッズ・ロック》をサーチ可能なリストを出すやつです。
+
+<br/>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スモールワールドの使い方4（除外元を最大5種類まで対応いたしました〜） <a href="https://t.co/pZvkFpxHcJ">pic.twitter.com/pZvkFpxHcJ</a></p>&mdash; ゲンシュン (@gen_shun) <a href="https://twitter.com/gen_shun/status/1420722263981105156?ref_src=twsrc%5Etfw">July 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 
