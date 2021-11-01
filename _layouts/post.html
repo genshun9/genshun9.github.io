@@ -11,7 +11,8 @@ js: ["post.js"]
         <span>
           <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Date">date_range</i>
           {{page.date | date: "%Y/%m/%d"}}
-          <i id="indicate" class="right material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Show extra info">info</i>
+          <i id="indicate" class="right material-icons tooltipped" data-position="left" data-delay="30"
+            data-tooltip="Show extra info">info</i>
         </span>
       </div>
       <div class="collapsible-body">
@@ -20,7 +21,9 @@ js: ["post.js"]
           {% for cat in page.categories %}
           {% capture test %}{{cat | slice: 0}}{% endcapture %}
           {% capture testup %}{{cat | slice: 0 | upcase}}{% endcapture %}
-          <a href="{{site.baseurl}}/categories#{{cat | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank"><div class="chip">{{cat}}</div></a>
+          <a href="{{site.baseurl}}/categories#{{cat | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank">
+            <div class="chip">{{cat}}</div>
+          </a>
           {% endfor %}
         </span>
         <span>
@@ -28,7 +31,9 @@ js: ["post.js"]
           {% for tag in page.tags %}
           {% capture test %}{{tag | slice: 0}}{% endcapture %}
           {% capture testup %}{{tag | slice: 0 | upcase}}{% endcapture %}
-          <a href="{{site.baseurl}}/tags#{{tag | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank"><div class="chip">{{tag}}</div></a>
+          <a href="{{site.baseurl}}/tags#{{tag | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank">
+            <div class="chip">{{tag}}</div>
+          </a>
           {% endfor %}
         </span>
       </div>
@@ -36,12 +41,15 @@ js: ["post.js"]
   </ul>
 </div>
 <div>
-  <a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text={{page.title}} - {{site.title}}">Tweet</a>
-  <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="{{page.title}} - {{site.title}}">
-    <img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+  <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{page.title}} - {{site.title}}">Tweet</a>
+  <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button"
+    data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja"
+    title="{{page.title}} - {{site.title}}">
+    <img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加"
+      width="20" height="20" style="border: none;" />
   </a>
-  <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8"
+    async="async"></script>
 </div>
 <div class="divider"></div>
 <div class="row">
@@ -50,10 +58,12 @@ js: ["post.js"]
   </div>
 </div>
 <div>
-  <a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text={{page.title}} - {{site.title}}">Tweet</a>
-  <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="{{page.title}} - {{site.title}}">
-    <img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+  <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{page.title}} - {{site.title}}">Tweet</a>
+  <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button"
+    data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja"
+    title="{{page.title}} - {{site.title}}">
+    <img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加"
+      width="20" height="20" style="border: none;" />
   </a>
 </div>
 <!-- {% if site.disqus_shortname and page.comments %}
