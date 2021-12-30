@@ -55,10 +55,7 @@ tag: game
 
 ##### 配信情報
 
-FF8初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=AoMekWf6wBY-bg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-
+[FF8初見実況シリーズ](https://www.twitch.tv/collections/AoMekWf6wBY-bg)
 
 <a id="#zeno"></a>
 
@@ -97,9 +94,7 @@ FF8初見実況シリーズ
 
 ##### 配信情報
 
-ゼノブレイドDE初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=Hlw-Q2mPdxbBpA&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[ゼノブレイドDE初見実況シリーズ](https://www.twitch.tv/collections/Hlw-Q2mPdxbBpA)
 
 くらびすたさんのチャンネル
 
@@ -126,10 +121,7 @@ FF8初見実況シリーズ
 
 ##### 配信情報
 
-スーパーマリオサンシャイン初見実況シリーズ(part1と2が消えた)
-
-<iframe src="https://player.twitch.tv/?collection=tMTZ2wV9xRb_lg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-
+[スーパーマリオサンシャイン初見実況シリーズ(part1と2が消えた)](https://www.twitch.tv/collections/tMTZ2wV9xRb_lg)
 
 <a id="#snap"></a>
 
@@ -162,9 +154,7 @@ FF8初見実況シリーズ
 
 ##### 配信情報
 
-ポケモンスナップ初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=H1xMu89ljBabpg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[ポケモンスナップ初見実況シリーズ](https://www.twitch.tv/collections/H1xMu89ljBabpg)
 
 
 <a id="#moon"></a>
@@ -188,10 +178,7 @@ RPGに対する風刺というかメタというか、メッセージ性が非�
 
 ##### 配信情報
 
-moon初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=YwQvziIajRbSuQ&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-
+[moon初見実況シリーズ](https://www.twitch.tv/collections/YwQvziIajRbSuQ)
 
 <a id="#dragon"></a>
 
@@ -215,9 +202,7 @@ RPGシリーズといえば「ファイナルファンタジー」or「ドラゴ
 
 ##### 配信情報
 
-ドラゴンクエスト初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=EzSZG2AdjRZcUA&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[ドラゴンクエスト初見実況シリーズ](https://www.twitch.tv/collections/EzSZG2AdjRZcUA)
 
 <a id="#ys"></a>
 
@@ -240,7 +225,7 @@ switchでセールあったので遊んでみました。最高に良かった�
 
 ##### 配信情報
 
-<iframe src="https://player.twitch.tv/?collection=39MuLgUFmhaPoA&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[イース8初見実況シリーズ](https://www.twitch.tv/collections/39MuLgUFmhaPoA)
 
 <a id="#moji"></a>
 
@@ -274,10 +259,7 @@ switchでセールあったので遊んでみました。最高に良かった�
 
 ##### 配信情報
 
-サクナヒメ初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=EfTKdq3-qxYGTw&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-
+[サクナヒメ初見実況シリーズ](https://www.twitch.tv/collections/EfTKdq3-qxYGTw)
 
 <a id="#goemon"></a>
 
@@ -296,9 +278,7 @@ OPテーマが影山ヒロノブ、ロボットバトル戦では水木一郎が
 
 ##### 配信情報
 
-がんばれゴエモンネオ桃山幕府のおどり初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=KyqjEuv_qxY0hg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[がんばれゴエモンネオ桃山幕府のおどり初見実況シリーズ](https://www.twitch.tv/collections/KyqjEuv_qxY0hg)
 
 <a id="#zelda"></a>
 
@@ -322,9 +302,7 @@ OPテーマが影山ヒロノブ、ロボットバトル戦では水木一郎が
 
 ##### 配信情報
 
-スカイウォードソード初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=4ZGD9RZpsxY56w&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[スカイウォードソード初見実況シリーズ](https://www.twitch.tv/collections/4ZGD9RZpsxY56w)
 
 
 <a id="#kurono"></a>
@@ -347,9 +325,7 @@ OPテーマが影山ヒロノブ、ロボットバトル戦では水木一郎が
 
 ##### 配信情報
 
-クロノ・トリガー初見実況シリーズ
-
-<iframe src="https://player.twitch.tv/?collection=1EJke8JMwRYPSQ&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+[クロノ・トリガー初見実況シリーズ(アーカイブ残してる最中です)](https://www.twitch.tv/collections/1EJke8JMwRYPSQ)
 
 <a id="#end"></a>
 
