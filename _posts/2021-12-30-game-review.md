@@ -72,7 +72,7 @@ FF8初見実況シリーズ
 
 本当にドン引きするぐらいやってましたね。
 
-<img src="{{site.baseurl}}/assets/img/20211230/zeno.png" width="40%">
+<img src="{{site.baseurl}}/assets/img/20211230/zeno2.png" width="40%">
 
 評価したい点たくさんのですが、端的にまとめると
 
@@ -99,7 +99,7 @@ FF8初見実況シリーズ
 
 ゼノブレイドDE初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=Hlw-Q2mPdxbBpA&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=Hlw-Q2mPdxbBpA&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 くらびすたさんのチャンネル
 
@@ -128,7 +128,7 @@ FF8初見実況シリーズ
 
 スーパーマリオサンシャイン初見実況シリーズ(part1と2が消えた)
 
-<iframe src="https://player.twitch.tv/?collection=tMTZ2wV9xRb_lg&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=tMTZ2wV9xRb_lg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 <a id="#snap"></a>
@@ -164,7 +164,7 @@ FF8初見実況シリーズ
 
 ポケモンスナップ初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=H1xMu89ljBabpg&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=H1xMu89ljBabpg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 <a id="#moon"></a>
@@ -190,7 +190,7 @@ RPGに対する風刺というかメタというか、メッセージ性が非�
 
 moon初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=YwQvziIajRbSuQ&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=YwQvziIajRbSuQ&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 <a id="#dragon"></a>
@@ -217,7 +217,7 @@ RPGシリーズといえば「ファイナルファンタジー」or「ドラゴ
 
 ドラゴンクエスト初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=EzSZG2AdjRZcUA&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=EzSZG2AdjRZcUA&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 <a id="#ys"></a>
 
@@ -240,7 +240,7 @@ switchでセールあったので遊んでみました。最高に良かった�
 
 ##### 配信情報
 
-<iframe src="https://player.twitch.tv/?collection=39MuLgUFmhaPoA&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=39MuLgUFmhaPoA&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 <a id="#moji"></a>
 
@@ -276,7 +276,7 @@ switchでセールあったので遊んでみました。最高に良かった�
 
 サクナヒメ初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=EfTKdq3-qxYGTw&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=EfTKdq3-qxYGTw&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 <a id="#goemon"></a>
@@ -298,7 +298,7 @@ OPテーマが影山ヒロノブ、ロボットバトル戦では水木一郎が
 
 がんばれゴエモンネオ桃山幕府のおどり初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=KyqjEuv_qxY0hg&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=KyqjEuv_qxY0hg&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 <a id="#zelda"></a>
 
@@ -324,7 +324,7 @@ OPテーマが影山ヒロノブ、ロボットバトル戦では水木一郎が
 
 スカイウォードソード初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=4ZGD9RZpsxY56w&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=4ZGD9RZpsxY56w&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 <a id="#kurono"></a>
@@ -349,7 +349,7 @@ OPテーマが影山ヒロノブ、ロボットバトル戦では水木一郎が
 
 クロノ・トリガー初見実況シリーズ
 
-<iframe src="https://player.twitch.tv/?collection=1EJke8JMwRYPSQ&video=videoId&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=1EJke8JMwRYPSQ&video=videoId&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 <a id="#end"></a>
 
