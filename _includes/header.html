@@ -39,6 +39,13 @@
   {% endfor %}
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css">
   <!-- <link rel="sitemap" type="application/xml" title="Sitemap" href="{{site.baseurl}}/sitemap.xml"> -->
+  <!-- OGP setting -->
+  <meta property="og:url" content="{{site.url}}">
+  <meta property="og:type" content="blog">
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{post.excerpt}}">
+  <meta property="og:site_name" content="{{page.title}} | 東海道中膝ポテト">
+  <meta property="og:image" content="https://genshun9.github.io/assets/img/ogp_image.png">
 </head>
 <body>
   <header>
@@ -71,6 +78,7 @@
       <li><a class="waves-effect" href="{{site.baseurl}}/categories"><i class="material-icons">sort</i>Categories</a>
       </li>
       <li><a class="waves-effect" href="{{site.baseurl}}/tags"><i class="material-icons">label</i>Tags</a></li>
+      <!-- <li><a class="waves-effect" href="{{site.baseurl}}/movies"><i class="material-icons">playlist_play</i>Twitch</a></li> -->
       <li>
         <div class="divider"></div>
       </li>
