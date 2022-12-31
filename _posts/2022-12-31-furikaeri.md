@@ -158,9 +158,7 @@ categories: blog
 
 <br/>
 
-4,5,6を見た直後の感想・考察と1,2,3の予想配信貼っておきます。新鮮な感想だ！
-
-<iframe src="https://player.twitch.tv/?video=1455693389&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+4,5,6を見た直後の[感想・考察と1,2,3の予想配信](https://www.twitch.tv/videos/1455693389?t=00h04m08s)を貼っておきます。新鮮な感想だ！
 
 <br/>
 
