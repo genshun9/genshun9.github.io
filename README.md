@@ -12,7 +12,14 @@
 
 ## 開発
 
+- 現状rubyのバージョンが3.2.0だと、使えない
+
 ```
+# ruby周り
+rbenv versions
+rbenv global x.x.x
+# Germfile.lockを削除して
+bundle install
 # ライブラリのアップデート
 bundle update
 bundle install
