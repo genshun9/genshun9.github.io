@@ -3,6 +3,7 @@ layout: post
 title: "2022年振り返り"
 date: 2022-12-31 12:00:00 +0900
 categories: blog
+tag: private
 ---
 
 こんにちは。ゲンシュンです。<br/>
