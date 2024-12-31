@@ -107,6 +107,11 @@ tag: private
 
 <iframe src="https://clips.twitch.tv/embed?clip=SpinelessHomelyCiderTBTacoLeft-4Ot52Figl7KPRiYy&parent=genshun9.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
+<br/>
+今年もたくさんゲーム実況した。たくさんのコメントに感謝です〜〜〜〜、来年もたくさんの実況するぞ🔥
+
+<img src="{{site.baseurl}}/assets/img/20241231/2.jpeg" width="80%">
+
 ##### カード
 20年以上遊んでいる遊戯王カードはあんまりやってなくて、最近はもっぱらワンピースカードに熱中です。今年は初めて大会に参加しました。<br/>
 
